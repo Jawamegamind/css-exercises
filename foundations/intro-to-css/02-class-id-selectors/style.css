@@ -1,0 +1,20 @@
+/* First setting the common styles for the odd numbered elements */
+.odd-number {
+    background-color: lightpink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#number-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.adjust-size {
+    font-size: 24px;
+}
+
+#number-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
